@@ -4,6 +4,6 @@ tips:
 
 ng build --prod
 
-### ctrl a - COPY ALL
+#### ctrl a - COPY ALL
 
-### CTRL X - DELETE ALL
+#### CTRL X - DELETE ALL
